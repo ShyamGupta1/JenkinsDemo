@@ -1,0 +1,3 @@
+Hello from hello.txt!
+This is a simple demo file being used in a Jenkins pipeline.
+Have a great day!
